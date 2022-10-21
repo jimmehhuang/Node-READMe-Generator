@@ -20,7 +20,7 @@ Simply answer given questions in the console as given by Node, and the program w
 
 A video for usage is included below:
 
-![README generator demo](./assets/readme-demo.mov)
+https://user-images.githubusercontent.com/113392613/197289811-b40479e7-f6da-4a6f-a455-f5026c39aec0.mov
 
 ## License
 Refer to license in repo or as below:
